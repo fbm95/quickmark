@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuickMark</string>
+    <string name="quizzes_button">Quizzes</string>
+    <string name="students_button">Students</string>
+    <string name="classes_button">Classes</string>
+    <string name="twenty_button">20 questions</string>
+    <string name="fifty_button">50 questions</string>
+    <string name="hundred_button">100 questions</string>
+    <string name="sort_by_name_button">Sort by name</string>
+    <string name="sort_by_grade_button">Sort by grade</string>
+</resources>
